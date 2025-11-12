@@ -28,4 +28,5 @@ A simple Django web application that demonstrates the Model–View–Template (M
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/lakhbirsinghsdi-ops/employee_weather.git
-cd employee-weather-app
+cd exotica
+
